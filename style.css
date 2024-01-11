@@ -1,0 +1,76 @@
+section{
+
+
+
+  height:100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+    
+
+}
+
+
+.contain{
+    display: flex;
+    
+    
+    justify-content: center;
+    align-items: center;
+   
+}
+
+
+.item{
+    border: 2px solid gray;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+ 
+}
+.btns{
+    text-align: center;
+    margin-top: 20px;
+}
+
+hr{
+    width: 150px;
+    color: gray;
+   
+
+}
+
+.btn{
+
+    width: 100px;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+   
+
+   
+}
+
+.btn-prev{
+    background-color: gray;
+    color:black;
+    
+}
+
+.btn-next{
+    background-color: blue;
+    color: white;
+}
+
+.btn:hover{
+    background-color: gray;
+    
+}
+
+
+
+
